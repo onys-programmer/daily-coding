@@ -1,7 +1,14 @@
-test('validAnagram', () => {
-  const validAnagram = require('./validAnagram');
+import validAnagram from './validAnagram';
 
-  const { arrCompared, arrComparing } = require('./validAnagram');
+test('validAnagram', () => {
+
+  const compared = "abc";
+  const comparing = "bac";
+
+  const { arrCompared, arrComparing } = validAnagram(compared, comparing);
+
+  expect(arrCompared).toBe([ "a", "b", "c" ]);
+  expect(arrComparing).toBe([ "b", "a", "c" ]);
 
   expect(validAnagram('','')).toBe(true);
   expect(validAnagram('aaz','zza')).toBe(false);
