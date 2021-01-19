@@ -17,4 +17,3 @@ function solution(array, commands) {
 }
 
 module.exports = solution;
-module.exports.sortedArray = this.sortedArray;
