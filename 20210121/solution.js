@@ -1,31 +1,18 @@
 function solution(answers) {
-  const result = [];
+  var result = [];
+  var pattern1 = [1, 2, 3, 4, 5];
+  var pattern2 = [2, 1, 2, 3, 2, 4, 2, 5]
+  var pattern3 = [ 3, 3, 1, 1, 2, 2, 4, 4, 5, 5];
 
-  const person1 = [];
-  let person1Point = 0;
+  var score1 = answers.filter((a,i)=> a === pattern1[i%pattern1.length]).length;
+  var score2 = answers.filter((a,i)=> a === pattern2[i%pattern2.length]).length;
+  var score3 = answers.filter((a,i)=> a === pattern3[i%pattern3.length]).length;
+  var max = Math.max(score1, score2, score3);
 
-  const person2 = [];
-  let person2Point = 0;
+  if (score1 === max) {result.push(1)};
+  if (score2 === max) {result.push(2)};
+  if (score3 === max) {result.push(3)};
 
-  const person3 = [];
-  let person3Point = 0;
-
-  for(let i =0; i < 2000; i += 5 ) {
-    person1[i] = 1;
-    person1[i+1] = 2;
-    person1[i+2] = 3;
-    person1[i+3] = 4;
-    person1[i+4] = 5;
-  }
-
-  let i = 0
-  while(person1[i])
-  {
-    if(person1[i] == answers[i]) {
-      person1Point++;
-    }
-    i++;
-  }
 
   return result;
 }
