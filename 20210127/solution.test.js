@@ -15,7 +15,7 @@ describe('solution', () => {
     it('returns 6210', () => {
       const { maxNum } = solution([6,10,2]);
       expect(maxNum).toBe(6210);
-    }) 
+    })
   });
   expect(solution([6, 10, 2])).toBe("6210");
   expect(solution([1, 9, 0])).toBe("910");
