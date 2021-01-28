@@ -11,7 +11,7 @@ function solution(array) {
 //10진법 더하기로
 
 describe('solution', () => {
-  decribe('when array is [6, 10, 2]', () => {
+  describe('when array is [6, 10, 2]', () => {
     it('returns 6210', () => {
       const { maxNum } = solution([6,10,2]);
       expect(maxNum).toBe(6210);
