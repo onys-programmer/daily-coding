@@ -3,16 +3,26 @@ function solution(clothes) {
   //각각의 key가 몇개의 value를 가지고 있는지
   //key: kindOfClothes value: countOfClothes
 
+let answer = 1;
 
   const myMap = new Map();
 
-  const key = ;
-  const value = ;
+  for(let i = 0; i < clothes.length; i++) {
+    const kindOfClothes = clothes[i][1];
 
-  myMap.set(key, value);
-  const kindOfClothes = ["headgear", "eyewear"];
-  
-  return answer;
+    if(!kindOfClothes) {
+      myMap.set(kindOfClothes, 1);
+    } else {
+      myMap.set(kindOfClothes, myMap.get(kindOfClothes) + 1)
+    }
+  }
+
+  for(let i = 0; i < myMap.keys().length; i++) {
+    answer *= (myMap.get(myMap.keys()[i])+1);
+  }
+
+  console.log(myMap);
+  return answer - 1;
 }
 
 test('solution', () => {
