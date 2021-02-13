@@ -35,15 +35,16 @@ function combination(cards) {
   }
 
   function accumulator(n) {
-    let sum = 0;
+    let sumArray = [];
     for(let i = 1; i <= n; i++) {
-      sum += n개짜리(i);
+      sumArray.push(n개짜리(i));
     }
+    const sum = sumArray.reduce((acc,cur) => acc + cur, 0)
 
     return sum;
   }
 
-  return accumulator(2);
+  return accumulator(cards.length);
 }
 
 test('combination', () => {
