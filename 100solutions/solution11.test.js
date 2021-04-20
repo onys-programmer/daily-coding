@@ -1,5 +1,5 @@
 test('', () => {
-  function uniqueBySet(arr) {
+  function unique(arr) {
     let mySet = new Set();
     for(let i = 0; i < arr.length; i++) {
       mySet.add(arr[i]);
@@ -16,7 +16,7 @@ test('', () => {
         result.push(str);
       }
     }
-
+    
     return result;
   }
 
@@ -24,6 +24,6 @@ test('', () => {
     "Krishna", "Krishna", "Hare", "Hare", ":-O"
   ];
 
-  expect( uniqueBySet(strings) ).toStrictEqual(["Hare", "Krishna" ,":-O"]);
+  expect( unique(strings) ).toStrictEqual(["Hare", "Krishna" ,":-O"]);
   expect( uniqueByIncludes(strings) ).toStrictEqual(["Hare", "Krishna" ,":-O"]);
 });
