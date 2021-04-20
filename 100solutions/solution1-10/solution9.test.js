@@ -29,7 +29,7 @@ test('fisher yates', () => {
   }
   
   // 만들 수 있는 모든 순열의 생성 빈도를 세서 출력해줍니다.
-  for (let key in count) {
-    console.log(`${key}: ${count[key]}`);
-  }
+  // for (let key in count) {
+  //   console.log(`${key}: ${count[key]}`);
+  // }
 });
