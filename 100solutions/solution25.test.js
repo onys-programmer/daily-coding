@@ -11,7 +11,7 @@ test('network', () => {
       console.log('DFS excuted');
       if(isVisited[i]) { return; }
       isVisited[i] = true;
-      console.log(isVisited);
+      console.log(`isVisited is ${isVisited}`);
 
       for(let j = 0; j < computers.length; j++) {
         if(computers[i][j] === 1) {
