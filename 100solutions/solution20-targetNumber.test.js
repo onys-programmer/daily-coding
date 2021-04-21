@@ -1,20 +1,18 @@
 test('target number', () => {
   function solution(numbers, target) {
     let answer = 0;
-
-    function recur(idx, sum) {
-      if( idx === numbers.length) {
-        if(sum === target) {
-          answer+=1;
+    
+    function getAnswer(x, value) {
+      if( x < numbers.length) {
+        getAnswer(x+1, value + numbers[x]);
+        getAnswer(x+1, value - numbers[x]);
+      } else {
+        if(value === target) {
+          answer++
         }
-        return;
       }
-
-      recur(idx+1, sum + numbers[idx]);
-      recur(idx+1, sum - numbers[idx]);
     }
-
-    recur(0, 0);
+    getAnswer(0,0);
 
     return answer;
   }
