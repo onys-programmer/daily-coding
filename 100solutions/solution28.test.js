@@ -27,11 +27,16 @@ test('체육복', () => {
     }
 
     for (let i of reserve) {
+      // reserve 하나하나 요소를 i에 할당하며 순회
       let key = lost.includes(i-1) ? lost.indexOf(i-1) : lost.indexOf(i+1)
-
+      // reserve의 앞사람이 lost냐? 그러면 그사람 index를, 아니면 reserve 뒷사람 index를 key로
+      
+      // 어찌됐건 reserve 앞뒤 사람 중에 도난당한 사람이 있는 경우에 실행
       if (key != -1) {
         lost.splice(key, 1)
       }
+      
+      // 앞뒤에게 빌려줄 수 없으면 아무것도 안함
     }
 
     return n - lost.length;
