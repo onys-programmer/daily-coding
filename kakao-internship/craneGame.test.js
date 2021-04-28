@@ -7,29 +7,19 @@ test('Crane Game', () => {
     for(let j = 0; j < board.length; j++) {
       let stack = [];
       for(let i = board.length-1; i >= 0; i--) {
-        stack.unshift(board[i][j]);
+        if(board[i][j]) {
+          stack.unshift(board[i][j]);
+        }
       }
       stacks.push(stack);
     }
     
-    console.log(stacks);
-
-    // stacks에 0 빼기
-    stacks.forEach(function(item) {
-      while(item[0] === 0) {
-        item.shift();
-      }
-    });
-
     // 크레인 작동
     moves.forEach(function(i) {
       if(stacks[i-1].splice().shift() !== 0) {
-        let idx = i-1;
-        let picked = stacks[idx].shift();
-        console.log("picked:"+picked);
-        if(picked !== undefined) {
+        let picked = stacks[i-1].shift();
+        if(picked) {
           basket.unshift(picked);
-          console.log("basket:"+basket);
         }
         
         // 터지기
