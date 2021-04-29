@@ -26,7 +26,6 @@ test('Crane Game', () => {
         if(basket[0] === basket[1]) {
           basket.shift();
           basket.shift();
-          console.log("터졌다! 남은 것은: " + basket);
           count += 2;
         }
       }
