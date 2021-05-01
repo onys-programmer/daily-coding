@@ -13,31 +13,23 @@ rl.on('line', function (line) {
     stack.push(newLine[1]);
     console.log(stack[stack.length-1]);
     count++;
-    console.log(`count:${count}`)
   } else if (newLine[0] === "pop") {
     console.log(stack.length === 0 ? "-1" : stack.pop());
     count++;
-    console.log(`count:${count}`)
   } else if (newLine[0] === "size") {
     console.log(stack.length + "\n");
     count++;
-    console.log(`count:${count}`)
   } else if (newLine[0] === "empty") {
     console.log(stack.length === 0 ? "1" : 0);
     count++;
-    console.log(`count:${count}`)
   } else if (newLine[0] === "top") {
     console.log(stack.length === 0 ? "-1" : stack[0]);
     count++;
-    console.log(`count:${count}`)
   } else if (Number.isInteger(+newLine[0])) {
-    console.log("Int received");
     limit = newLine[0];
-    console.log("limit: "+ limit);
   }
 
   if(count >= limit) {
-    console.log("count is same with limit");
     rl.close();
   }
 })
