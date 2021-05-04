@@ -13,45 +13,48 @@ const solution = (arr) => {
   let cursor = str.length;
 
   arr.map((cmd, i) => {
-    if(i >= 2) {
-      if(cmd === "L") {
-        if(cursor > 0) {
-          cursor--;
-        }
-      } else if(cmd === "D") {
-        if(cursor < str.length) {
+    if (i >= 2) {
+      switch (cmd) {
+        case "L":
+          if (cursor > 0) {
+            cursor--;
+          }
+          break;
+        case "D":
+          if (cursor < str.length) {
+            cursor++;
+          }
+          break;
+        case "B":
+          if (cursor > 0) {
+            str.splice(cursor, 1);
+            cursor--;
+          }
+          break;
+        default:
+          let commandP = cmd.split(" ");
+          str.splice(cursor, 0, commandP[1]);
           cursor++;
-        }
-      } else if(cmd === "B") {
-        if(cursor > 0) {
-          str.splice(cursor, 1);
-          cursor--;
-        }
-      } else {
-        let commandP = cmd.split(" ");
-        str.splice(cursor, 0, commandP[1]);
-        cursor++;
       }
     }
   });
-
   console.log(str.join(""));
 };
 
 rl.on('line', function (line) {
   input.push(line);
-  if(input.length === 2) {
-    limit = +input[1]+2;
+  if (input.length === 2) {
+    limit = +input[1] + 2;
   };
   count++;
-  if(count >= limit) {
+  if (count >= limit) {
     rl.close();
   }
 })
-.on("close", function () {
-  solution(input);
-  process.exit();
-});
+  .on("close", function () {
+    solution(input);
+    process.exit();
+  });
 
 // 영어 소문자만 기록 가능
 // L, D, B, P $
