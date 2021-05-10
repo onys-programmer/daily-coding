@@ -1,6 +1,0 @@
-PrintSelfNumber.java
- PrintSelfNumber
-ModifyArray2.java
- ModifyArray2
-Main.java
- Main
