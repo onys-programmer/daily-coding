@@ -1,6 +1,5 @@
 describe('areThereDuplicates', () => {
   function areThereDuplicates(args) {
-    console.log(...arguments);
     let arr = [...arguments];
     let mySet = new Set();
     arr.forEach(e => mySet.add(e));
