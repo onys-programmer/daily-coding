@@ -11,7 +11,6 @@ describe('findLongestSubstring', () => {
         start = Math.max(start, seen[char]);
       }
 
-
       seen[char] = i + 1;
 
       longest = Math.max(longest, i - start + 1);
