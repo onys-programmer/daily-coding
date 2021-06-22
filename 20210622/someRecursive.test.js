@@ -4,6 +4,13 @@ describe('someRecursive', () => {
   }
 
   function someRecursive(arr, callBack) {
+    if(arr.length === 0) return false;
+    if(callBack(arr[0])) return true; 
+
+    return someRecursive(arr.slice(1), callBack);
+  }
+
+  function mySomeRecursive(arr, callBack) {
     for(let i = 0; i < arr.length; i++) {
       if(callBack(arr[i])) return true;
     }
