@@ -51,6 +51,16 @@ describe('Singly Linked List', () => {
       
       return current;
     }
+
+    get(index) {
+      if(index < 0 || index > this.length) return undefined;
+      let current = this.head;
+      for(let i = 0; i < index; i++) {
+        current = current.next;
+      }
+
+      return current;
+    }
   }
 
   let singlyLinkedList = new SinglyLinkedList();
@@ -79,6 +89,13 @@ describe('Singly Linked List', () => {
       expect(singlyLinkedList.pop().val).toBe(15);
       expect(singlyLinkedList.tail.val).toBe(10);
       expect(singlyLinkedList.length).toBe(2);
+    });
+  });
+
+  context('when gets', () => {
+    it('gets a specific node with index', () => {      
+      expect(singlyLinkedList.get(0).val).toBe(5);
+      expect(singlyLinkedList.get(1).val).toBe(10);
     });
   });
 });
