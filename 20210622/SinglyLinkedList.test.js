@@ -53,13 +53,24 @@ describe('Singly Linked List', () => {
     }
 
     get(index) {
-      if(index < 0 || index > this.length) return undefined;
+      if(index < 0 || index > this.length) return null;
+      let counter = 0;
       let current = this.head;
-      for(let i = 0; i < index; i++) {
+
+      while(counter !== index) {
         current = current.next;
+        counter++;
       }
 
       return current;
+
+      // if(index < 0 || index > this.length) return undefined;
+      // let current = this.head;
+      // for(let i = 0; i < index; i++) {
+      //   current = current.next;
+      // }
+
+      // return current;
     }
   }
 
