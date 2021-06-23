@@ -53,7 +53,7 @@ describe('Singly Linked List', () => {
     }
 
     get(index) {
-      if(index < 0 || index > this.length) return null;
+      if(index < 0 || index >= this.length) return null;
       let counter = 0;
       let current = this.head;
 
@@ -71,6 +71,36 @@ describe('Singly Linked List', () => {
       // }
 
       // return current;
+    }
+
+    insert(index, val) {
+      if(index < 0 || index > this.length) return false;
+      if(index === this.length) this.push(val);
+      if(index === 0) {
+        let newNode = new Node(val);
+
+        if(!this.head) {
+          this.head = newNode;
+          this.tail = this.head;
+        } else {
+          newNode.next = this.head;
+          this.head = newNode;
+        }
+
+        this.length++;
+        
+        return true;
+      }
+      
+      let newNode = new Node(val);
+      let prevNode = this.get(index-1);
+
+      newNode.next = this.get(index);
+      prevNode.next = newNode;
+      
+      this.length++;
+
+      return true;
     }
   }
 
@@ -107,6 +137,17 @@ describe('Singly Linked List', () => {
     it('gets a specific node with index', () => {      
       expect(singlyLinkedList.get(0).val).toBe(5);
       expect(singlyLinkedList.get(1).val).toBe(10);
+    });
+  });
+
+  context('when inserts', () => {
+    it('returns true with valid index else returns false', () => {      
+      expect(singlyLinkedList.insert(1, 12)).toBe(true);
+      expect(singlyLinkedList.insert(100, 12)).toBe(false);
+    });
+    it('inserts a specific node with index and value', () => {      
+      expect(singlyLinkedList.length).toBe(3);
+      expect(singlyLinkedList.get(1).val).toBe(12);
     });
   });
 });
