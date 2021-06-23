@@ -73,6 +73,17 @@ describe('Singly Linked List', () => {
       // return current;
     }
 
+    set(index, val) {
+      let foundNode = this.get(index);
+
+      if(foundNode) {
+        foundNode.val = val;
+        return true;
+      }
+
+      return false;
+    }
+
     insert(index, val) {
       if(index < 0 || index > this.length) return false;
       if(index === this.length) this.push(val);
@@ -88,7 +99,7 @@ describe('Singly Linked List', () => {
         }
 
         this.length++;
-        
+
         return true;
       }
       
@@ -137,6 +148,13 @@ describe('Singly Linked List', () => {
     it('gets a specific node with index', () => {      
       expect(singlyLinkedList.get(0).val).toBe(5);
       expect(singlyLinkedList.get(1).val).toBe(10);
+    });
+  });
+
+  context('when sets', () => {
+    it('sets a specific node with the value', () => {  
+      singlyLinkedList.set(0, 100);    
+      expect(singlyLinkedList.get(0).val).toBe(100);
     });
   });
 
