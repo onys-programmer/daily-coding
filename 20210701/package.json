@@ -5,7 +5,7 @@
   "main": "sortedFrequency.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node sortedFrequency.js"
+    "start": "node maximizeExpression.js"
   },
   "keywords": [],
   "author": "",
