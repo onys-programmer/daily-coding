@@ -48,15 +48,18 @@ function getResults(arr1, arr2) {
   let orders = [["+","-","*"],["+","*","-"],["-","+","*"],["-","*","+"],["*","+","-"],["*","-","+"]];
 
   // orders를 순회하며 calculate한 결과를 results에 push한다.
-  orders.forEach(ele => calculate(ele, digits, operators));
+  orders.forEach(ele => results.push(calculate(ele, digits, operators)));
 
-  const calculate = (order, digits, operators) => {
+  function calculate(order, digits, operators) {
+    if(i === 3) return Math.abs(result); 
       let i = 0;
       let curOperater = order[i];
       const length = operators.length;
       // arr2를 순회하며 1순위 계산을 처리한다.
-      
-      const recursive = (curOperater, digits, operators) => {
+      let {digits, operators} = recursive(curOperater, digits, operators);
+
+      console.log(digits, operators);
+      function recursive (curOperater, digits, operators) {
       // operators를 순회하면서 각 요소가 현재 실행할 연산자와 일치하면 operate 해서 digits, operators를 조작한다.
           operators.forEach(ele =>{
               let counter = 0;
@@ -87,6 +90,4 @@ function getResults(arr1, arr2) {
       // 연산자 다음 순위가 undefined가 되면 절대값을 씌운다.
       // result에 push한다.
   }
-
-  return results;
 }
