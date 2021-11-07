@@ -1,0 +1,13 @@
+{
+  "name": "20210701",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sortedFrequency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node maximizeExpression.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

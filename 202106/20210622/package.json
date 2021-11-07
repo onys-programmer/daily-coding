@@ -1,0 +1,27 @@
+{
+  "name": "20210622",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "babel": "babel-node"
+  },
+  "jest": {
+    "setupFiles": [
+      "jest-plugin-context/setup"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.7",
+    "@types/jest": "^26.0.23",
+    "babel-jest": "^27.0.5",
+    "jest": "^27.0.4",
+    "jest-plugin-context": "^2.9.0"
+  }
+}
