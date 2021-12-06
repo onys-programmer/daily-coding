@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3008b3fb-ec88-47f7-a30d-328e2b3e43c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211101/boj2468/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211101/boj2468/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211101/boj2468/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211101/boj2468/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211103/boj10026/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211103/boj10026/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211103/boj10026/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211103/boj10026/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211107/boj1068/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211107/boj1068/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211107/boj1068/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211107/boj1068/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211107/boj1068/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211107/boj1068/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211111/boj1260/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211111/boj1260/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211111/boj1260/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211111/boj1260/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj14502/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14502/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj14502/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14502/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj14562/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14562/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj14562/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14562/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj14562/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14562/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj4963/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj4963/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211113/boj4963/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj4963/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211115/boj2178/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211115/boj2178/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211115/boj2178/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211115/boj2178/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj11725/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj11725/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj11725/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj11725/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj1388/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj1388/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj1388/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj1388/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj17086/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj17086/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj17086/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj17086/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj17086/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj17086/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj2739/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj2739/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211121/boj2739/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj2739/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211127/boj10950/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj10950/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211127/boj10950/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj10950/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211127/boj2884/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj2884/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211127/boj2884/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj2884/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211128/boj15552/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj15552/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211128/boj15552/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj15552/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211128/boj2741/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj2741/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211128/boj2742/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj2742/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20211128/boj8393/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj8393/s1.py" afterDir="false" />
-    </list>
+    <list default="true" id="3008b3fb-ec88-47f7-a30d-328e2b3e43c5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,33 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20211204/boj11021/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20211204/boj11021/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20211204/boj11022/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20211204/boj2438/s1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +46,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20211206/boj10952/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="200">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20211206/boj10951/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20211206/boj10951/s2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="24" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20211206/boj10951/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -186,6 +148,9 @@
         <option value="$PROJECT_DIR$/20211206/s1.py" />
         <option value="$PROJECT_DIR$/20211206/boj10952/input.txt" />
         <option value="$PROJECT_DIR$/20211206/boj10952/s1.py" />
+        <option value="$PROJECT_DIR$/20211206/boj10951/input.txt" />
+        <option value="$PROJECT_DIR$/20211206/boj10951/s1.py" />
+        <option value="$PROJECT_DIR$/20211206/boj10951/s2.py" />
       </list>
     </option>
   </component>
@@ -220,6 +185,12 @@
               <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
               <item name="20211206" type="462c0819:PsiDirectoryNode" />
+              <item name="boj10951" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
+              <item name="20211206" type="462c0819:PsiDirectoryNode" />
               <item name="boj10952" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -240,6 +211,7 @@
       <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211121" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211206" />
       <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211204" />
     </key>
   </component>
@@ -255,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (3)">
+  <component name="RunManager" selected="Python.s2">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211204/boj2438" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211206/boj10951" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211204/boj2438/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211206/boj10951/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,11 +320,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211204/boj11022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211206/boj10951" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211204/boj11022/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211206/boj10951/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1 (5)" />
-        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -716,8 +688,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20211206/boj10952/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211206/boj10951/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211206/boj10951/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211206/boj10951/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="24" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
