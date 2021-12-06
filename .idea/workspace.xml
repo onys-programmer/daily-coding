@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3008b3fb-ec88-47f7-a30d-328e2b3e43c5" name="Default Changelist" comment="" />
+    <list default="true" id="3008b3fb-ec88-47f7-a30d-328e2b3e43c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211101/boj2468/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211101/boj2468/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211101/boj2468/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211101/boj2468/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211103/boj10026/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211103/boj10026/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211103/boj10026/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211103/boj10026/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211107/boj1068/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211107/boj1068/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211107/boj1068/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211107/boj1068/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211107/boj1068/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211107/boj1068/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211111/boj1260/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211111/boj1260/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211111/boj1260/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211111/boj1260/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj14502/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14502/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj14502/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14502/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj14562/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14562/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj14562/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14562/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj14562/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj14562/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj4963/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj4963/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211113/boj4963/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211113/boj4963/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211115/boj2178/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211115/boj2178/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211115/boj2178/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211115/boj2178/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj11725/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj11725/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj11725/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj11725/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj1388/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj1388/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj1388/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj1388/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj17086/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj17086/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj17086/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj17086/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj17086/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj17086/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj2739/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj2739/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj2739/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211121/boj2739/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211127/boj10950/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj10950/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211127/boj10950/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj10950/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211127/boj2884/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj2884/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211127/boj2884/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211127/boj2884/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211128/boj15552/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj15552/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211128/boj15552/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj15552/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211128/boj2741/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj2741/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211128/boj2742/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj2742/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211128/boj8393/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/202111/20211128/boj8393/s1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +49,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20211128/boj8393/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20211204/boj11021/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -32,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/20211204/boj11021/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -41,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/20211204/boj11022/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -50,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/20211204/boj2438/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -59,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/20211204/boj2439/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -73,11 +102,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20211204/boj10871/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20211206/boj10952/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20211206/boj10952/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -136,6 +183,9 @@
         <option value="$PROJECT_DIR$/20211204/boj2439/s1.py" />
         <option value="$PROJECT_DIR$/20211204/boj10871/input.txt" />
         <option value="$PROJECT_DIR$/20211204/boj10871/s1.py" />
+        <option value="$PROJECT_DIR$/20211206/s1.py" />
+        <option value="$PROJECT_DIR$/20211206/boj10952/input.txt" />
+        <option value="$PROJECT_DIR$/20211206/boj10952/s1.py" />
       </list>
     </option>
   </component>
@@ -153,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,32 +214,33 @@
             <path>
               <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="20211204" type="462c0819:PsiDirectoryNode" />
+              <item name="20211206" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
-              <item name="20211204" type="462c0819:PsiDirectoryNode" />
-              <item name="boj10871" type="462c0819:PsiDirectoryNode" />
+              <item name="20211206" type="462c0819:PsiDirectoryNode" />
+              <item name="boj10952" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211204" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211206\boj10952" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\202111" />
       <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211204" />
       <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211128\boj15552" />
       <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211121" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211204" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
+  <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211204/boj11021" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211206/boj10952" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211204/boj11021/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211206/boj10952/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -336,12 +388,12 @@
     <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16824196" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16824196" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32973894" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26901248" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26901248" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,7 +449,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20211111/boj1260/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211111/boj1260/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
@@ -407,14 +459,14 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211111/boj1260/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211111/boj1260/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211113/boj4963/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211113/boj4963/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -424,66 +476,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211113/boj14562/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211113/boj14562/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211113/boj14562/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211113/boj14562/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211113/boj14562/s2.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211113/boj14562/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211113/boj14502/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211113/boj14502/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211113/boj14502/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211113/boj14502/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211107/boj1068/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211107/boj1068/s1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211115/boj2178/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211115/boj2178/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211115/boj2178/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211115/boj2178/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj17086/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj17086/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj17086/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj17086/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
@@ -497,7 +549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj17086/s2.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj17086/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="26" />
@@ -507,56 +559,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211127/boj2884/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211127/boj2884/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211127/boj2884/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211127/boj2884/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj2739/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj2739/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj2739/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj2739/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj11725/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj11725/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211121/boj11725/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211121/boj11725/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211127/boj10950/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211127/boj10950/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211127/boj10950/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211127/boj10950/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" selection-end-line="7" />
@@ -564,35 +616,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20211128/boj2741/input.txt" />
-    <entry file="file://$PROJECT_DIR$/20211128/boj2742/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211128/boj2742/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211128/boj2741/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211128/boj2741/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211128/boj15552/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211128/boj15552/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211128/boj15552/input.txt">
+    <entry file="file://$PROJECT_DIR$/202111/20211128/boj15552/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20211128/boj8393/s1.py">
+    <entry file="file://$PROJECT_DIR$/202111/20211128/boj8393/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="25" />
@@ -602,42 +654,35 @@
     <entry file="file://$PROJECT_DIR$/20211204/boj11021/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20211204/boj11021/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20211204/boj11022/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20211204/boj11022/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20211204/boj2438/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20211204/boj2439/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -648,10 +693,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20211204/boj11022/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20211204/boj10871/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211206/boj10952/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211206/boj10952/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
