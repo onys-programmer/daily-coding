@@ -11,15 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20211206/boj1546/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20211206/boj8958/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -55,9 +46,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20211209/boj10872/s1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20211209/boj10870/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -104,8 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20211115/boj2178/s1.py" />
-        <option value="$PROJECT_DIR$/20211121/boj1388/boj17086/input.txt" />
         <option value="$PROJECT_DIR$/20211121/boj1388/boj17086/s1.py" />
         <option value="$PROJECT_DIR$/20211121/boj1388/boj17086/s2.py" />
         <option value="$PROJECT_DIR$/20211121/boj11725/s1.py" />
@@ -155,6 +157,8 @@
         <option value="$PROJECT_DIR$/20211206/boj4344/s1.py" />
         <option value="$PROJECT_DIR$/20211209/boj15596/s1.py" />
         <option value="$PROJECT_DIR$/20211209/boj4673/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10872/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10870/s1.py" />
       </list>
     </option>
   </component>
@@ -218,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (2)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily-coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211206/boj2577" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211209/boj10870" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211206/boj2577/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211209/boj10870/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -412,13 +416,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/202111/20211115/boj2178/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/202111/20211121/boj17086/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -754,7 +751,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20211209/boj10872/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211209/boj10870/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
