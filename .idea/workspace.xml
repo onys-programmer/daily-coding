@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3008b3fb-ec88-47f7-a30d-328e2b3e43c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/202101/20210101/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210101/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210101/database.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/database.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210101/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210101/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210101/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210101/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210101/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210102/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210102/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210102/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210102/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210102/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210102/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210102/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210102/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/database.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/database.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210103/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210103/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210104/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210104/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210104/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210104/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210105/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210105/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210105/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210105/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210105/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210105/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210105/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210105/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210105/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210105/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210106/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210106/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210106/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210106/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210107/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210107/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210107/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210107/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210108/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210108/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210108/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210108/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210108/validAnagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210108/validAnagram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210108/validAnagram.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210108/validAnagram.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210109/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210109/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210109/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210109/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210109/validAnagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210109/validAnagram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210109/validAnagram.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210109/validAnagram.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210110/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210110/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210110/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210110/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210110/validAnagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210110/validAnagram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210110/validAnagram.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210110/validAnagram.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210111/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210111/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210112/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210112/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210112/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210112/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210112/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210112/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210113/countUniqueValues.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210113/countUniqueValues.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210113/countUniqueValues.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210113/countUniqueValues.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210113/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210113/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210113/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210113/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210114/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210114/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210114/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210114/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210115/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210115/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210115/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210115/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210115/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210115/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210116/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210116/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210116/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210116/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210116/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210116/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210117/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210117/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210117/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210117/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210117/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210117/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210117/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210117/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210118/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210118/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210118/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210118/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210118/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210118/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210118/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210118/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210118/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210118/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/solution2.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/solution2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210119/solution2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210119/solution2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210120/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210120/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210120/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210120/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210120/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210120/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210120/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210120/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210120/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210120/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210121/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210121/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210121/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210121/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210121/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210121/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210121/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210121/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210121/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210121/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210122/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210122/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210122/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210122/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210122/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210122/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210122/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210122/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210122/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210122/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210123/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210123/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210123/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210123/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210124/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210124/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210124/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210124/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210124/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210124/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210124/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210124/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210124/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210124/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210125/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210125/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210125/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210125/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210125/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210125/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210125/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210125/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210125/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210125/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210126/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210126/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210126/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210126/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210126/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210126/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210126/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210126/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210126/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210126/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210127/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210127/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210127/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210127/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210127/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210127/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210127/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210127/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210128/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210128/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210128/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210128/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210128/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210128/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210128/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210128/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210129/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210129/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210129/제2부.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210129/제2부.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210130/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210130/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210130/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210130/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210131/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210131/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210131/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210131/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210131/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210131/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202101/20210131/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202101/20210131/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210201/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210201/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210201/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210201/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210201/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210201/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210201/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210201/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210202/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210202/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210202/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210202/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210202/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210202/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210202/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210202/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210203/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210203/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210203/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210203/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210203/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210203/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210203/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210203/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210204/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210204/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210204/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210204/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210205/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210205/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210205/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210205/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210205/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210205/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210205/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210205/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210206/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210206/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210206/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210206/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210206/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210206/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210206/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210206/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210207/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210207/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210207/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210207/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210207/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210207/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210208/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210208/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210208/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210208/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210208/primeNumber.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210208/primeNumber.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210209/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210209/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210209/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210209/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210210/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210210/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210210/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210210/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210211/combination.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210211/combination.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210211/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210211/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210211/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210211/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210212/combination.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210212/combination.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210212/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210212/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210212/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210212/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210213/combination.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210213/combination.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210213/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210213/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210213/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210213/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210214/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210214/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210214/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210214/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210215/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210215/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210215/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210215/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210215/permutation.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210215/permutation.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210216/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210216/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210217/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210217/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210217/kakaocrane.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210217/kakaocrane.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210217/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210217/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210217/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210217/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210218/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210218/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210218/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210218/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210219/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210219/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210219/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210219/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210221/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210221/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210221/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210221/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210222/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210222/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210222/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210222/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210222/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210222/solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210224/substruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210224/substruction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210226/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210226/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210226/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210226/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210227/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210227/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202102/20210227/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202102/20210227/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210301/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210301/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210301/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210301/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210302/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210302/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210302/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210302/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210302/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210302/product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210303/Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210303/Comparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/configuration-cache/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/modules/20210304.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/modules/20210304.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/modules/WhilePlus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/modules/WhilePlus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/bin/main/WhilePlus.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/bin/main/WhilePlus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/bin/main/errors/zeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/bin/main/errors/zeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/bin/test/WhilePlusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/bin/test/WhilePlusTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/src/main/java/WhilePlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/src/main/java/WhilePlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/src/main/java/errors/zeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/src/main/java/errors/zeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210304/src/test/java/WhilePlusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210304/src/test/java/WhilePlusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/configuration-cache/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/bin/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/bin/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/bin/main/InvalidScoreException.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/bin/main/InvalidScoreException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/bin/main/PrintResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/bin/main/PrintResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/bin/test/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/bin/test/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/bin/test/printResultTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/bin/test/printResultTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/src/main/java/InvalidScoreException.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/src/main/java/InvalidScoreException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/src/main/java/PrintResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/src/main/java/PrintResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/src/test/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210308/src/test/java/printResultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210308/src/test/java/printResultTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210315/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210315/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210315/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210315/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210316/SelfNumber/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210316/SelfNumber/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210316/SelfNumber/SelfNumber/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210316/SelfNumber/SelfNumber/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210317/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210317/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210317/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210317/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/6.7/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/6.7/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/configuration-cache/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/modules/factorization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/modules/factorization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/bin/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/bin/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210320/factorization/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210320/factorization/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/configuration-cache/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/modules/20210322.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/modules/20210322.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/modules/hansoo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/modules/hansoo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.project" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/bin/main/Hansoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/bin/main/Hansoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/bin/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/bin/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/src/main/java/Hansoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/src/main/java/Hansoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202103/20210322/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202103/20210322/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/Queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/Queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/SinglyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/SinglyLinkedList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/Stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/Stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/again.MD" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/again.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution.25.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution.25.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution.30.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution.30.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution10.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution10.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution3.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution3.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution4.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution4.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution5.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution5.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution6.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution6.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution7.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution8.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution8.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution1-10/solution9.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution1-10/solution9.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution11.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution11.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution12.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution12.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution13.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution13.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution14.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution14.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution15.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution15.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution16.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution16.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution17.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution17.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution18.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution18.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution19.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution19.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution20-targetNumber.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution20-targetNumber.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution21.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution21.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution22.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution22.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution23.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution23.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution24.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution24.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution25.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution25.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution26.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution26.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution27.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution27.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution28.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution28.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution29.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution29.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution31.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution31.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution32.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution32.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution33.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution33.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution34.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution34.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution35.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution35.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution36.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution36.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution37.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution37.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution38.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution38.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution40.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution41.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution41.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution42.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution42.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution43.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution43.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution44.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution44.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution45.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution45.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/100solutions/solution46.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/100solutions/solution46.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210401/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210401/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210401/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210401/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210401/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210401/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210402/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210402/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210402/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210402/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210402/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210402/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210413/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210413/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210413/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210413/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210413/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210413/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210413/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210413/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210415/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210415/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210415/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210415/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210415/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210415/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210419/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210419/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210419/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210419/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210419/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210419/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202104/20210419/solution2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202104/20210419/solution2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210510/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210510/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210510/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210510/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210510/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210510/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/ImageInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/ImageInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/SearchInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/SearchInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/SearchResult.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/SearchResult.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210513/src/utils/validator.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210513/src/utils/validator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/practice/clock.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/practice/clock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/practice/createElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/practice/createElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/practice/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/practice/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/practice/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/src/clock.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/src/clock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/src/greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/src/greeting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210514/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210514/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210515/clock.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210515/clock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210515/createElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210515/createElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210515/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210515/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210515/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210515/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210515/render.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210515/render.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210515/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210515/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210520/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210520/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210520/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210520/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210520/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210520/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210520/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210520/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/babel.config.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/babel.config.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/popToResult.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/popToResult.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/popToResult.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/popToResult.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/pushToStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/pushToStack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/pushToStack.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/pushToStack.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210523/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210523/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210524-2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210524-2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210524-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210524-2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210524/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210524/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210524/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210524/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210525/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210525/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210525/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210525/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210525/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210525/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210526/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210526/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210526/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210526/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210526/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210526/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210527/124solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210527/124solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210527/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210527/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210527/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210527/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202105/20210527/yaksooSum.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202105/20210527/yaksooSum.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210607/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210607/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210607/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210607/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210607/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210607/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210608/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210608/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210608/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210608/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210608/solution.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210608/solution.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210611/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210611/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210611/selectionSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210611/selectionSort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/areThereDuplicates.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/areThereDuplicates.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/averagePair.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/averagePair.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/countUniqueValues.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/countUniqueValues.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/isSubsequence.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/isSubsequence.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/sameFrequency.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/sameFrequency.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210614/validAnagram.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210614/validAnagram.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210615/isSubsequence.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210615/isSubsequence.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210615/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210615/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210615/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210615/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210618/isSubsequence.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210618/isSubsequence.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210618/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210618/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210618/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210618/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210621/maxSubarraySum.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210621/maxSubarraySum.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210621/minSubarraySum.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210621/minSubarraySum.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210621/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210621/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210621/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210621/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/SinglyLinkedList.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/SinglyLinkedList.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/capitalizeFirst.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/capitalizeFirst.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/countZeroes.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/countZeroes.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/findLongestSubstring.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/findLongestSubstring.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/flatten.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/flatten.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/isPalindrome.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/isPalindrome.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/printNum.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/printNum.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/reverse.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/reverse.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210622/someRecursive.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210622/someRecursive.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210624/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210624/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210624/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210624/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210624/stack.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210624/stack.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202106/20210630/camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202106/20210630/camera.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210701/maximizeExpression.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210701/maximizeExpression.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210701/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210701/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210701/sortedFrequency.js" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210701/sortedFrequency.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210720/1152.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210720/1152.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210720/1152_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210720/1152_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210724/average.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210724/average.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210724/gcd_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210724/gcd_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210724/pansa.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210724/pansa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210725/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210725/dijkstra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210725/reference.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210725/reference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210727/1157.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210727/1157.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210727/sw_1954.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210727/sw_1954.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210729/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210729/bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210730/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210730/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210730/peak.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210730/peak.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202107/20210730/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202107/20210730/permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210808/across_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210808/across_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210808/interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210808/interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210808/string_parser_step_by_step.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210808/string_parser_step_by_step.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210808/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210808/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210814/ameba.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210814/ameba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210815/chicken.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210815/chicken.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/cony_and_brown.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/cony_and_brown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/gems.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/gems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/hackerthon.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/hackerthon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/how_many_keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/how_many_keyword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/kth_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/kth_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/max_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/max_income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/min_friends.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/min_friends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/not_completion.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/not_completion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202108/20210819/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202108/20210819/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202109/20210907/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202109/20210907/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211025/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211025/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211025/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211025/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211025/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211025/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211027/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211027/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211027/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211027/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211027/s1_recursion_failed.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211027/s1_recursion_failed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211027/s2_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211027/s2_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211030/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211030/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211030/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211030/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211031/boj11724/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211031/boj11724/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211031/boj11724/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211031/boj11724/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211031/boj2667/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211031/boj2667/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202110/20211031/boj2667/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202110/20211031/boj2667/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211101/boj2468/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211101/boj2468/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211101/boj2468/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211101/boj2468/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211103/boj10026/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211103/boj10026/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211103/boj10026/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211103/boj10026/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211107/boj1068/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211107/boj1068/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211107/boj1068/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211107/boj1068/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211107/boj1068/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211107/boj1068/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211111/boj1260/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211111/boj1260/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211111/boj1260/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211111/boj1260/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj14502/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj14502/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj14502/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj14502/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj14562/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj14562/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj14562/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj14562/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj14562/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj14562/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj4963/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj4963/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211113/boj4963/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211113/boj4963/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211115/boj2178/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211115/boj2178/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211115/boj2178/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211115/boj2178/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj11725/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj11725/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj11725/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj11725/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj1388/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj1388/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj1388/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj1388/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj17086/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj17086/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj17086/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj17086/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj17086/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj17086/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj2739/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj2739/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211121/boj2739/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211121/boj2739/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211127/boj10950/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211127/boj10950/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211127/boj10950/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211127/boj10950/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211127/boj2884/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211127/boj2884/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211127/boj2884/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211127/boj2884/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211128/boj15552/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211128/boj15552/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211128/boj15552/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211128/boj15552/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211128/boj2741/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211128/boj2741/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211128/boj2742/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211128/boj2742/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202111/20211128/boj8393/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/202111/20211128/boj8393/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj7562/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211121/boj7562/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211121/boj7562/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211121/boj7562/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj10871/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj10871/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj10871/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj10871/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj11021/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj11021/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj11021/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj11021/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj11022/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj11022/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj11022/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj11022/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj2438/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj2438/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211204/boj2439/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211204/boj2439/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10818/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10818/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10818/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10818/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10951/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10951/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10951/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10951/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10951/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10951/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10952/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10952/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj10952/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj10952/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj1110/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj1110/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj1546/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj1546/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj1546/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj1546/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj2562/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj2562/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj2562/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj2562/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj2577/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj2577/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj2577/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj2577/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj3052/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj3052/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj3052/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj3052/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj4344/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj4344/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj4344/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj4344/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj8958/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj8958/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211206/boj8958/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211206/boj8958/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj10171/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj10171/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj10172/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj10172/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj10809/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj10809/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj10869/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj10869/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj10870/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj10870/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj10872/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj10872/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj1157/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj1157/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj1157/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj1157/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj11654/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj11654/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj11720/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj11720/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj15312/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj15312/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj15312/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj15312/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj15596/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj15596/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2475/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2475/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2557/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2557/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2675/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2675/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2675/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2675/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2753/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2753/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2908/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2908/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj2920/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj2920/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj4673/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj4673/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211209/boj9498/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211209/boj9498/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211211/boj1085/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211211/boj1085/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211211/boj4153/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211211/boj4153/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj10250/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj10250/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj10250/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj10250/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj2231/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj2231/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj2292/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj2292/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj2775/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj2775/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj2775/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj2775/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj4153/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj4153/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211213/boj4153/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211213/boj4153/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj1259/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj1259/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj1259/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj1259/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj15829/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj15829/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj15829/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj15829/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj2798/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj2798/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj2798/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj2798/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj2839/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj2839/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj2869/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj2869/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211214/boj2869/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211214/boj2869/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211215/boj1018/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211215/boj1018/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211215/boj1018/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211215/boj1018/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211215/boj11050/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211215/boj11050/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211225/boj2941/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211225/boj2941/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211225/boj2941/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211225/boj2941/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211225/boj2941/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211225/boj2941/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211225/boj5622/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211225/boj5622/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211226/boj10817/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211226/boj10817/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211226/boj2440/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211226/boj2440/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20211226/boj2441/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/20211226/boj2441/s1.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20220109/boj11718/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20220109/boj11718/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/20211206/boj8958/input.txt" />
+        <option value="$PROJECT_DIR$/20211206/boj8958/s1.py" />
+        <option value="$PROJECT_DIR$/20211206/boj4344/input.txt" />
+        <option value="$PROJECT_DIR$/20211206/boj4344/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj15596/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj4673/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10872/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10870/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj15312/input.txt" />
+        <option value="$PROJECT_DIR$/20211209/boj15312/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj2475/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj2557/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10171/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10172/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj11654/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj2753/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj9498/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10869/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj2675/input.txt" />
+        <option value="$PROJECT_DIR$/20211209/boj2675/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj2908/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj2920/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj10809/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj11720/s1.py" />
+        <option value="$PROJECT_DIR$/20211209/boj1157/s2.py" />
+        <option value="$PROJECT_DIR$/20211209/boj1157/s1.py" />
+        <option value="$PROJECT_DIR$/20211211/boj1085/s1.py" />
+        <option value="$PROJECT_DIR$/20211211/boj4153/s1.py" />
+        <option value="$PROJECT_DIR$/20211213/boj4153/input.txt" />
+        <option value="$PROJECT_DIR$/20211213/boj4153/s1.py" />
+        <option value="$PROJECT_DIR$/20211213/boj10250/input.txt" />
+        <option value="$PROJECT_DIR$/20211213/boj10250/s1.py" />
+        <option value="$PROJECT_DIR$/20211213/boj2231/s1.py" />
+        <option value="$PROJECT_DIR$/20211213/boj2292/s1.py" />
+        <option value="$PROJECT_DIR$/20211213/boj2775/input.txt" />
+        <option value="$PROJECT_DIR$/20211213/boj2775/s1.py" />
+        <option value="$PROJECT_DIR$/20211214/boj2798/input.txt" />
+        <option value="$PROJECT_DIR$/20211214/boj2798/s1.py" />
+        <option value="$PROJECT_DIR$/20211214/boj15829/input.txt" />
+        <option value="$PROJECT_DIR$/20211214/boj15829/s1.py" />
+        <option value="$PROJECT_DIR$/20211214/boj1259/input.txt" />
+        <option value="$PROJECT_DIR$/20211214/boj1259/s1.py" />
+        <option value="$PROJECT_DIR$/20211214/boj2839/input.txt" />
+        <option value="$PROJECT_DIR$/20211214/boj2839/s1.py" />
+        <option value="$PROJECT_DIR$/20211214/boj2869/s1.py" />
+        <option value="$PROJECT_DIR$/20211214/boj2869/input.txt" />
+        <option value="$PROJECT_DIR$/20211215/boj11050/s1.py" />
+        <option value="$PROJECT_DIR$/20211215/boj1018/input.txt" />
+        <option value="$PROJECT_DIR$/20211215/boj1018/s1.py" />
+        <option value="$PROJECT_DIR$/20220109/boj11718/input.txt" />
+        <option value="$PROJECT_DIR$/20220109/boj11718/s1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
+              <item name="20220109" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="daily-coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-coding" type="462c0819:PsiDirectoryNode" />
+              <item name="20220109" type="462c0819:PsiDirectoryNode" />
+              <item name="boj11718" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211214" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211213" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211206" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211204" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\2021" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211206\boj10952" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\202111" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211204" />
+      <recent name="C:\Users\User\Desktop\ssafy6\individual\daily-coding\20211128\boj15552" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.s1 (1)">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily-coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20220109/boj11718" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20220109/boj11718/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily-coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211214/boj2839" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211214/boj2839/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily-coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211214/boj2869" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211214/boj2869/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily-coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211215/boj11050" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211215/boj11050/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily-coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211215/boj1018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211215/boj1018/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3008b3fb-ec88-47f7-a30d-328e2b3e43c5" name="Default Changelist" comment="" />
+      <created>1636587941821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636587941821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19017094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32973894" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30996713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3246311" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="field" language="Python" />
+        <watch expression="visited" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>visited</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>field</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2021/20211206/boj3052/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211206/boj4344/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj15596/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj4673/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj10872/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj10870/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj15312/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj15312/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2475/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2557/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj10171/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj10172/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj11654/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj9498/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj10869/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2753/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2675/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2908/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2920/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj10809/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj11720/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj1157/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211211/boj1085/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj1157/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7700">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211209/boj2675/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211211/boj4153/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211213/boj2231/input.txt" />
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj4153/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj10250/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj2231/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj2292/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj2775/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj10250/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj4153/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20211214/boj2839/input.txt" />
+    <entry file="file://$PROJECT_DIR$/2021/20211213/boj2775/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj2798/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj15829/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj1259/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj2839/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211215/boj1018/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj2869/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj1259/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj15829/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj2798/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211214/boj2869/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211215/boj11050/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/20211215/boj1018/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20220109/boj11718/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20220109/boj11718/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
