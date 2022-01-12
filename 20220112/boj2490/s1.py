@@ -1,0 +1,8 @@
+import sys
+sys.stdin = open('input.txt')
+
+yoot = ['E', 'A', 'B', 'C', 'D']
+
+for _ in range(3):
+    inp = input().split()
+    print(yoot[inp.count('0')])
