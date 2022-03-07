@@ -1,5 +1,5 @@
 import sys, math
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 
 up, down, total = map(int, input().split())
 

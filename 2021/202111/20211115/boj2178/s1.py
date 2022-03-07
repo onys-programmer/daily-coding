@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 
 
 def is_valid(x, y):

@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 
 arr = []
 for _ in range(7):

@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 
 N = int(input())
 parents = list(map(int, input().split()))

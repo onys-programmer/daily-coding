@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 input = sys.stdin.readline
 
 

@@ -1,6 +1,6 @@
 from collections import deque
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 input = sys.stdin.readline
 
 # delta

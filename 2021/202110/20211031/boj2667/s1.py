@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 sys.setrecursionlimit(100000)
 
 # delta 상우하좌

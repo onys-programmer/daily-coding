@@ -1,6 +1,6 @@
 import sys
 from collections import deque
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 input = sys.stdin.readline
 
 

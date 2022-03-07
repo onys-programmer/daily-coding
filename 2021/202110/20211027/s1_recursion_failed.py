@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 
 N = int(sys.stdin.readline())
 connected = int(sys.stdin.readline())  # 간선 갯수

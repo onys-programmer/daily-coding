@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('chat.py')
 
 while True:
     a, b, c = sorted(map(lambda x: int(x) ** 2, input().split()))
