@@ -1,5 +1,4 @@
-const fs = require('fs');
-const input = fs.readFileSync("input.txt")
+const input = require('fs').readFileSync("input.txt")
   .toString().trim().split('\n').map(v => v.split(' ').map(Number));
 
 let pLot = new Array(101).fill(0);
